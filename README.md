@@ -1,4 +1,4 @@
-# EloquentRound
+# A binary search tree (BST) implementation in Scala
 [![Build Status](https://travis-ci.org/NiclasHedam/scala-binary-search-tree.svg?branch=master)](https://travis-ci.org/NiclasHedam/scala-binary-search-tree)
 [![Coverage Status](https://coveralls.io/repos/github/NiclasHedam/scala-binary-search-tree/badge.svg?branch=master)](https://coveralls.io/github/NiclasHedam/scala-binary-search-tree?branch=master)
 
