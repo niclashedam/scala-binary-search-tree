@@ -1,6 +1,6 @@
 # A binary search tree (BST) implementation in Scala
-[![Build Status](https://travis-ci.org/NiclasHedam/scala-binary-search-tree.svg?branch=master)](https://travis-ci.org/NiclasHedam/scala-binary-search-tree)
-[![Coverage Status](https://coveralls.io/repos/github/NiclasHedam/scala-binary-search-tree/badge.svg?branch=master)](https://coveralls.io/github/NiclasHedam/scala-binary-search-tree?branch=master)
+[![Build Status](https://travis-ci.org/NiclasHedam/scala-binary-search-tree.svg?branch=master)](https://travis-ci.org/niclashedam/scala-binary-search-tree)
+[![Coverage Status](https://coveralls.io/repos/github/NiclasHedam/scala-binary-search-tree/badge.svg?branch=master)](https://coveralls.io/github/niclashedam/scala-binary-search-tree?branch=master)
 
 This is an implementation of a Binary Search Tree in Scala. A BST is a tree
 data structure that provides an average of logarithmic performance for finding,
